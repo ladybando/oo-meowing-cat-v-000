@@ -1,5 +1,5 @@
 ## code your solution here.
-def cat
+class Cat
   maru=Cat.new
   maru.name="Maru"
 end
