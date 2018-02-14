@@ -1,4 +1,4 @@
 ## code your solution here.
-def Cat
+def cat
   maru=Cat.new
 end
